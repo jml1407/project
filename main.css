@@ -43,6 +43,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #ff6600;
+	width: 100%; 
 }
 
 li {
