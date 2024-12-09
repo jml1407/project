@@ -43,11 +43,10 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #ff6600;
-    border-radius: 20px;
 }
 
 li {
-    float: left;
+    float: center;
 }
 
 li a {
