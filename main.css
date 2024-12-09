@@ -48,10 +48,6 @@ ul {
     justify-content: center;     /* Center items horizontally */
 }
 
-li {
-    float: none;
-}
-
 li a {
     display: block;
     color: #FFFFFF;
