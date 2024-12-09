@@ -104,5 +104,7 @@ h4 {
     
    height: 60px;
     width=60px;
+  position: relative;
+  left: 20px; /* Moves the image 20px to the right */
 }
 
