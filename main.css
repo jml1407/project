@@ -101,9 +101,8 @@ h4 {
     width=60px;
 }
 #founders {
-    
-   height: 60px;
-    width=60px;
+  height: 60px;
+  width: 60px; 
   position: relative;
   left: 20px; /* Moves the image 20px to the right */
 }
