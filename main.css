@@ -44,6 +44,8 @@ ul {
     overflow: hidden;
     background-color: #ff6600;
 	width: 100%; 
+	display: flex;               /* Align items horizontally */
+    justify-content: center;     /* Center items horizontally */
 }
 
 li {
