@@ -25,7 +25,6 @@ section{
 	width: 420px;
     min-height: 480px;
 	padding-left: 20px;
-	border-left: 5px dotted #b2a497;
     text-align: justify;
 }
 
@@ -65,7 +64,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-    background-color: #4CAF50;
+    background-color: ##ffe0cc;
     
 }
 
