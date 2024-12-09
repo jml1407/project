@@ -124,3 +124,7 @@ h5 {
     object-fit: cover;         /* Ensures the image fills the circle properly */
 }
 
+.employee {
+    text-align: center;       /* Centers the image and text within each employee box */
+}
+
