@@ -105,3 +105,11 @@ h4 {
   left: 20px; /* Moves the image 20px to the right */
 }
 
+.container {
+    background: red; /* Slightly lighter background for contrast */
+    border-radius: 15px; /* Rounded corners for a modern look */
+    padding: 20px; /* Add padding inside the container */
+    width: 90%; /* Set responsive width for smaller screens */
+    max-width: 800px; /* Limit width on larger screens */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Add a subtle shadow for depth */
+
