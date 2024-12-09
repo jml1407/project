@@ -71,7 +71,7 @@ li a:hover:not(.active) {
 
 h1 {
 	font-size: 40px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Lato, Arial, sans-serif;
 	text-align: center;
 	text-transform: uppercase;
 	color: #000000;
@@ -80,14 +80,14 @@ h1 {
 
 h3 {
 		font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Lato, Arial, sans-serif;
 	text-align: center;
 	color: #000000;
 	
 }
 h4 {
 		font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Lato, Arial, sans-serif;
 	text-align: center;
 	color: #000000;
 	
