@@ -118,8 +118,8 @@ h5 {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
 #employee {
   display: inline-block;                    
-    width: 75px;                   
-    height: auto; 
+    width: 60px;                   
+    height: 60px; 
 	border-radius: 50%;        /* Makes the image circular */
     object-fit: cover;         /* Ensures the image fills the circle properly */
 }
