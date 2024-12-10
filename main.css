@@ -140,18 +140,16 @@ h6 {
     height: auto;   
 }
 button {
-    background: green; /* Bright red for visibility */
-    border: none; /* Remove default button border */
-    border-radius: 20px; /* Rounded corners for a soft look */
-    color: white; /* White text for contrast */
-    padding: 10px 20px; /* Add padding for a comfortable size */
-    cursor: pointer; /* Change cursor to pointer on hover */
-    font-size: 1rem; /* Set font size */
-    margin-top: 20px; /* Add space above the button */
-    transition: background 0.3s ease; /* Smooth transition for hover effect */
+    border: none; 
+    border-radius: 20px; 
+    color: white; 
+    padding: 10px 20px; 
+    font-size: 1rem; 
+    margin-top: 20px; 
+    transition: background 0.3s ease; 
 }
 
-/* Button hover effect */
+
 button:hover {
-    background: #ff6b81; /* Lighten the red when hovered */
+    background: #ff6600; 
 }
