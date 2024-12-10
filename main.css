@@ -42,8 +42,8 @@ ul {
     overflow: hidden;
     background-color: #ff6600;
 	width: 100%; 
-	display: flex;               /* Align items horizontally */
-    justify-content: center;     /* Center items horizontally */
+	display: flex;              
+    justify-content: center;    
 }
 
 li a {
@@ -126,12 +126,12 @@ h6 {
   display: inline-block;                    
     width: 60px;                   
     height: 60px; 
-	border-radius: 50%;        /* Makes the image circular */
-    object-fit: cover;         /* Ensures the image fills the circle properly */
+	border-radius: 50%;        
+    object-fit: cover;         
 }
 
 .employee {
-    text-align: center;       /* Centers the image and text within each employee box */
+    text-align: center;       
 }
 #product {
   display: inline-block;          
