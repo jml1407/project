@@ -112,7 +112,7 @@ h6 {
 #founders {
   display: inline-block;          
     margin-right: 25px;             
-    width: 180px;                   
+    width: 250px;                   
     height: auto;   
 }
 
@@ -152,4 +152,10 @@ button {
 
 button:hover {
     background: #ff6600; 
+}
+#founder {
+  display: inline-block;          
+    margin-right: 25px;             
+    width: 180px;                   
+    height: auto;   
 }
